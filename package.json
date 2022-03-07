@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [],
+  "author": "Macmiller Duarte de Andrade",
   "scripts": {
     "lint:fix": "eslint --fix src --ext ts,tsx",
     "test": "jest"
